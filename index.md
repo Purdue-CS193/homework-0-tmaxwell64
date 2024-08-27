@@ -1,3 +1,15 @@
+# Talan Maxwell's First CS193 Homework
+
+**My favorite things about CS193**
+- This class only gives homework once a week
+- This class will teach me about useful tools to help with my CS career
+- There's only one lecture a week
+- I will get to code and not just read textbooks
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
